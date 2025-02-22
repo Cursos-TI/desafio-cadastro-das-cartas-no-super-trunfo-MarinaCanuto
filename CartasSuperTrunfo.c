@@ -1,6 +1,4 @@
 
-
-
 #include <stdio.h>
 
 int main() {
@@ -51,7 +49,7 @@ int main() {
     printf("PIB: %.2f bilhões de reais\n", Pib1);
     printf("Número de Pontos Turísticos: %d\n", PontosTuristicos1);
     printf("Densidade Populacional: %.2f hab/km²\n", DensidadePopulacional1);
-    printf("PIB per Capita: %.2f reais\n", PibPerCapita1) //
+    printf("PIB per Capita: %.2f reais\n", PibPerCapita1); //
 
     printf("\n"); // Separação entre as cartas
 
